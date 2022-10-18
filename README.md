@@ -1,6 +1,4 @@
-**Project CardOrder**
-
-[![Build status](https://ci.appveyor.com/api/projects/status/dengya5peblbhcbj?svg=true)](https://ci.appveyor.com/project/shade1471/cardorder)
+[![Build status](https://ci.appveyor.com/api/projects/status/exla9vhkx4ffi38c?svg=true)](https://ci.appveyor.com/project/Kirilova2022/cardorder)
 
 Задачи 1 и 2
 
